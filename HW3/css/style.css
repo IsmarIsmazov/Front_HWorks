@@ -1,0 +1,12 @@
+
+div {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url(/HW3/images_1/images-1.jpg);
+    background-color: #21b287;
+}
+
+.img3 {
+    position: absolute;
+}
